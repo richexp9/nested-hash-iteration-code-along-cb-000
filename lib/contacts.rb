@@ -35,4 +35,4 @@ def remove_strawberry(contacts)
   # cexitontacts
 end
 
-remove_strawberry(contacts)
+#remove_strawberry(contacts)
