@@ -28,7 +28,7 @@ def remove_strawberry(contacts)
   #   }
   # }
   #
-  # contacts
+  # cexitontacts
 end
 
 remove_strawberry(contacts)
